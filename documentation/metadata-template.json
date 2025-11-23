@@ -1,0 +1,15 @@
+{
+  "name": "TokenizeArt42 #1",
+  "description": "TokenizeArt 42 Collection. Created by dcindrak.",
+  "image": "ipfs://bafybeicr2d6hbsh22lm4m4xbtkmeegkbjakvohrrdtib62jbjtf5zulwci",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "dcindrak"
+    },
+    {
+      "trait_type": "Number Featured",
+      "value": "42"
+    }
+  ]
+}
