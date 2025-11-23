@@ -1,7 +1,7 @@
 const { ethers } = require("hardhat");
 
 async function main() {
-  const CONTRACT_ADDRESS = "0x7E530AA1C17d18A46E35071574b33e53bb9cca63";
+  const CONTRACT_ADDRESS = "0x7a633b83230158E8189541Cf57Bfe887efaFEE62";
   const RECIPIENT = "0x438F79Ad6b19DE77b8D4b3158D040B61CF48315A";
   const METADATA_URI = "ipfs://bafkreifdmjbihln4id5kr7ujcd2t4g2iibnpgg4fr5voishcprqciv7yza"; 
 

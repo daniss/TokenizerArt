@@ -46,5 +46,5 @@ npm run mint
 ```
 
 ## Contract Info
-- **Address**: `0x7E530AA1C17d18A46E35071574b33e53bb9cca63`
+- **Address**: `0x7a633b83230158E8189541Cf57Bfe887efaFEE62`
 - **Network**: BSC Testnet
